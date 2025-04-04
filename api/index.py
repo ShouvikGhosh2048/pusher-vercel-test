@@ -1,3 +1,7 @@
+# https://github.com/vercel/examples/tree/main/python/flask3
+# https://stackoverflow.com/a/33468993
+# https://stackoverflow.com/a/31684470
+
 from flask import Flask
 from dotenv import load_dotenv
 import pusher
